@@ -1,0 +1,24 @@
+{
+  "name": "dependencygraph-steal",
+  "version": "0.0.1",
+  "description": "Create a dependency graph for a StealJS project",
+  "main": "lib/dependencygraph.js",
+  "scripts": {
+    "test": "mocha test/test.js"
+  },
+  "keywords": [
+    "systemjs",
+    "stealjs",
+    "dependencies"
+  ],
+  "author": "Matthew Phillips",
+  "license": "MIT",
+  "dependencies": {
+    "dependencygraph": "git://github.com/matthewp/dependencygraph.git#master",
+    "lodash": "^3.0.1",
+    "steal": "^0.5.0-pre.3"
+  },
+  "devDependencies": {
+    "mocha": "^2.1.0"
+  }
+}
