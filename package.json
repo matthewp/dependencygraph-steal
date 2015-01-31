@@ -14,7 +14,7 @@
   "author": "Matthew Phillips",
   "license": "MIT",
   "dependencies": {
-    "dependencygraph": "git://github.com/matthewp/dependencygraph.git#master",
+    "dependencygraph": "^0.0.3",
     "lodash": "^3.0.1",
     "steal": "^0.5.0-pre.3"
   },
