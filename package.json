@@ -1,6 +1,6 @@
 {
   "name": "dependencygraph-steal",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Create a dependency graph for a StealJS project",
   "main": "lib/dependencygraph.js",
   "scripts": {
@@ -14,7 +14,7 @@
   "author": "Matthew Phillips",
   "license": "MIT",
   "dependencies": {
-    "dependencygraph": "^0.0.3",
+    "dependencygraph": "^0.0.4",
     "lodash": "^3.0.1",
     "steal": "^0.5.0-pre.3"
   },
